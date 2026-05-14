@@ -1,94 +1,65 @@
-<h1 align="center">Hi 👋, I'm Abhishek Anil</h1>
-<h3 align="center">Backend Developer | System Design Enthusiast | Lifelong Learner from India 🇮🇳</h3>
+# Hi, I'm Abhishek Anil 👋
 
-<img align="right" alt="Coding" width="380" src="https://pankajvyas.in/static/media/front.48645a7b.gif">
+**Backend Developer · Node.js · Python · APIs & Microservices**  
+Building scalable systems that ship and last.
 
----
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
+![Location](https://img.shields.io/badge/Roorkee%2C%20India-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Backend--First-orange?style=flat-square)
 
-## 👨‍💻 Who Am I?
-
-I am a developer who enjoys building **real‑world backend systems**, solving performance problems, and understanding how large applications are designed under the hood. I focus on writing **clean, scalable, and maintainable code** rather than just making things work.
-
-* 🔧 Currently building and experimenting with **backend architectures and APIs**
-* 🌱 Learning **Java, Spring Boot, and Data Structures & Algorithms**
-* 💬 Strong background in **C, C++, and Python**
-* 🎯 Actively working towards becoming a **high‑level backend and system design engineer**
+> 🟢 Currently exploring Python backends & API gateways
 
 ---
 
-## 🚀 What I’m Good At
+## 🙋 About Me
 
-* Designing REST APIs and structuring backend projects
-* Writing optimized logic in C/C++ and Python
-* Understanding databases, relationships, and performance considerations
-* Debugging complex issues and improving existing systems
-
----
-
-## 🧰 Tech Stack (Detailed)
-
-### 🧠 Core Programming
-
-* **C & C++** → Memory management, pointers, low‑level problem solving
-* **Python** → Scripting, automation, and quick prototyping
-* **Java** → Object‑oriented programming and enterprise backend development
-
-### 🌐 Backend & Databases
-
-* **Node.js** → Building scalable backend services
-* **REST APIs** → API design, request handling, authentication flows
-* **SQL** → Database design, joins, normalization, and performance tuning
-
-### 🖥️ Systems & Tools
-
-* **Linux** → Daily development environment and command‑line proficiency
-* **Bash** → Automation and workflow scripting
-* **Git & GitHub** → Version control, branching, collaboration, and open‑source workflow
+- Built a full-stack **LMS platform** with Razorpay payment integration, JWT auth, and role-based access control
+- Designed **microservice architectures** with REST APIs — focused on clean contracts, separation of concerns, and scalability
+- Comfortable across the full stack, with a primary focus on performant, well-structured **backend systems**
+- Interested in **SaaS architecture**, system design, and developer tooling
 
 ---
 
-## 📚 Currently Focused On
+## 🛠 Featured Projects
 
-* 📘 Mastering **Data Structures & Algorithms** for problem‑solving depth
-* ☕ Building production‑style projects using **Java + Spring Boot**
-* 🗄️ Designing efficient and scalable **database schemas**
-
----
-
-## 🏗️ Development Philosophy
-
-> "Code should not only run — it should be readable, scalable, and easy to maintain."
-
-I believe good software engineering is not just about writing code, but about **designing systems that other developers can understand and extend**.
+### 📚 LMS Platform
+Full-stack learning platform with subscription billing, JWT auth, and role-based access for students and instructors.  
+`Node.js` `Express` `Prisma` `Razorpay` `MySQL` `React`  
+🔗 [GitHub Repo](#) · [Live Demo](#)
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabhi1906&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi1906&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabhi1906&theme=black-ice&hide_border=true&background=060A0CD0" />
-</p>
+### 🔧 Microservices API
+Modular microservice system with independent services, REST API contracts, and centralized auth middleware.  
+`Node.js` `Express` `REST APIs` `JWT` `MySQL` `AWS`  
+🔗 [GitHub Repo](#)
 
 ---
 
-## 🤝 Let’s Connect
-
-* 📧 Email: **[sayabhi2002@gmail.com](mailto:sayabhi2002@gmail.com)**
-* 🧑‍💻 Always open to collaborating on **backend systems, tools, and open‑source projects**
-
----
-
-## ⚡ A Bit More About Me
-
-* I enjoy understanding how things work internally — whether it's compilers, operating systems, or web servers
-* I like optimizing existing code and making it faster and cleaner
-* I treat programming as both a profession and a craft
+### 🐍 Python REST API *(Work in Progress)*
+Exploring FastAPI for backend development — building a REST service with JWT auth and PostgreSQL.  
+`Python` `FastAPI` `JWT` `PostgreSQL`  
+🔗 [GitHub Repo](#)
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore my repositories and connect!*
+## 💻 Tech Stack
+
+| Level | Technologies |
+|-------|-------------|
+| **Proficient** | Node.js, Express.js, REST APIs, Prisma ORM, MySQL, JWT Auth, React.js |
+| **Familiar** | Python, AWS, Git & GitHub, Postman, Render, Microservices |
+| **Exploring** | FastAPI, API Gateways, PostgreSQL, Redis |
+
+---
+
+## 🎯 Career Objective
+
+Looking for a **Software Developer / Software Engineer** role where I can contribute to scalable backend systems, work with a strong engineering team, and grow in system design and modern software architecture. Open to backend-focused, full-stack, or API-platform roles.
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-imabhi1906-181717?style=flat-square&logo=github)](https://github.com/imabhi1906)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekanil19-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishekanil19/)
