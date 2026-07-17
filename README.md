@@ -4,8 +4,7 @@
 Building scalable systems that ship and last.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/Roorkee%2C%20India-blue?style=flat-square)
-![Focus](https://img.shields.io/badge/Backend--First-orange?style=flat-square)
+![Location](https://img.shields.io/badge/Banglore%2C%20India-blue?style=flat-square)
 
 > 🟢 Currently exploring Python backends & API gateways
 
