@@ -42,14 +42,15 @@ https://github.com/imabhi1906/API-gateway
 
 ---
 
-## 🔍 Review Detective *(Private Repository)*
+## 🔍 Review Detective
 
 An AI-powered backend project for analyzing and processing reviews using modern backend workflows.
 
 ### Tech Stack
 `Python` • `AI` • `Backend Development`
 
-> Currently private while under active development.
+🔗 Repository:
+https://github.com/imabhi1906/review_detective.git
 
 ---
 
@@ -69,7 +70,6 @@ Topics include:
 - Graphs
 - Binary Search
 - Recursion
-- Dynamic Programming
 - Sliding Window
 - Two Pointers
 
@@ -85,7 +85,7 @@ https://github.com/imabhi1906/DSA-Practice
 - JavaScript
 - Python
 - SQL
-- Java
+- Bash
 
 ### Backend
 
@@ -103,29 +103,15 @@ https://github.com/imabhi1906/DSA-Practice
 
 ### Tools
 
-- Git
-- GitHub
-- Postman
-- Render
+- Git, GitHub
+- Postman, APIdog
+- Render, Vercel, Netlify
+- Shell(CLI)
 
 ### Currently Learning
 
 - Redis
-- Microservices
-- API Gateways
 - System Design
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imabhi1906&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi1906&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -137,7 +123,7 @@ I'm looking for opportunities as a **Backend Developer** or **Software Engineer*
 
 # 🤝 Let's Connect
 
-📧 Email: **your-email@example.com**
+📧 Email: **sayabhi2002@gmail.com**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/abhishekanil19/
